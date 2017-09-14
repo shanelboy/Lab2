@@ -2,5 +2,6 @@
     MATE - Sean, Bill
 
 Change log(newest last):
+-----------------------
 
-    Setup changelog
+    Setup changelog - Ben
