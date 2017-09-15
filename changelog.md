@@ -5,3 +5,4 @@ Change log(newest last):
 -----------------------
 
     Setup changelog - Ben
+    Added picture and quote - Sean
