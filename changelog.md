@@ -9,3 +9,4 @@ Change log(newest last):
     added tooltip - Bill
     Added quote display, the icon is now clickable - Ben
     Formatted the quote display - Bill
+    changed something
